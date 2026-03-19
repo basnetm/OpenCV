@@ -13,7 +13,7 @@ dataset_path = r"OpenCV\training_images"
 
 # Empty lists to store faces and their corresponding labels
 faces = []
-labels = []
+labels = [] 
 
 # Dictionary to map labels to person names (used for display)
 label_to_name = {}
